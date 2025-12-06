@@ -3,6 +3,13 @@
     "configurations": [
       {
         "type": "java",
+        "name": "Problem2",
+        "request": "launch",
+        "mainClass": "Problem2",
+        "projectName": "Lesson-Introduction-to-Arrays_c190b6ed"
+      },
+      {
+        "type": "java",
         "name": "Launch Console Program",
         "request": "launch",
         "mainClass": "ConsoleProgram",
